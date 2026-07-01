@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://castrovalleypestcontrol.com/sitemap.xml
